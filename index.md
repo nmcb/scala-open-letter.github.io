@@ -113,7 +113,6 @@ Additional support:
 * Britany Meadows
 * Byron Samaripa
 * Cate Nestor
-* Channing Walton
 * Charles Adetiloye
 * Chiin-Rui Tan
 * Choon Kee Oh
@@ -133,7 +132,6 @@ Additional support:
 * Daniela Sfregola
 * Danielle Gourgey
 * Danny McClanahan
-* Dario Abdulrehman
 * Dario Rexin
 * Dave Pereira-Gurnell
 * David Francoeur
@@ -297,7 +295,6 @@ Additional support:
 * Rebecca Ely
 * Rebecca Mark
 * Régis Kuckaertz
-* Renato Cavalcanti
 * Rhys Sharrem
 * Richard Ashworth
 * Richard Costine
@@ -310,7 +307,6 @@ Additional support:
 * Ryan Peters
 * Ryan Plessner
 * Ryan Tanner
-* Ryan Tomczik
 * Sam Desborough
 * Sam Pillsworth
 * Sambhav Saggi
